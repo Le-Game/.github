@@ -5,12 +5,12 @@ Welcome to the whimsically wonky world of CodeFiasco Studios - where our code is
 
 ## Meet Our Chaotically Charming Team 🌪️
 
-### **Aleks "Array Assassin" Johnson**
+### **Aleks "Array Assassin" Pertise**
 - **Role:** Accidental Bug Creator (and sometimes programmer)
 - **Favorite Language:** Segmentation fault... I mean c++
 - **Fun Fact:** Can turn any functional code into an enigma wrapped in a riddle.
 
-### **Helle "Loop Lunatic" Hansen**
+### **Helle "Loop Lunatic" Kopter**
 - **Role:** Infinite Loop Creator
 - **Favorite Language:** Python (but only with extra bugs)
 - **Fun Fact:** Dreams in code, wakes up to find none of it works.
